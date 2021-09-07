@@ -1,0 +1,21 @@
+
+@font-face {
+    font-family: Roboto;
+    src: url("/assets/fonts/Roboto-Medium.ttf") format("ttf");
+}
+body{
+    height: 100vh;
+    font-family: Roboto, sans-serif !important;
+}
+#body-wrapper{
+    height: calc(100vh - 100px);
+    background-color: #B8CD75;
+}
+.header-page{
+    width: calc(100% - 340px);
+    text-align: center;
+}
+.grid__video-container{
+    width: 500px;
+    height: 300px;
+}
