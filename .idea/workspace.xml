@@ -1,13 +1,65 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
+  <component name="BranchesTreeState">
+    <expand>
+      <path>
+        <item name="ROOT" type="e8cecc67:BranchNodeDescriptor" />
+        <item name="LOCAL_ROOT" type="e8cecc67:BranchNodeDescriptor" />
+      </path>
+      <path>
+        <item name="ROOT" type="e8cecc67:BranchNodeDescriptor" />
+        <item name="REMOTE_ROOT" type="e8cecc67:BranchNodeDescriptor" />
+      </path>
+      <path>
+        <item name="ROOT" type="e8cecc67:BranchNodeDescriptor" />
+        <item name="REMOTE_ROOT" type="e8cecc67:BranchNodeDescriptor" />
+        <item name="GROUP_NODE:origin" type="e8cecc67:BranchNodeDescriptor" />
+      </path>
+    </expand>
+    <select />
+  </component>
   <component name="ChangeListManager">
     <list default="true" id="6d03f364-3950-4277-bf2b-8ef2b019dd21" name="Default Changelist" comment="">
+      <change afterPath="$PROJECT_DIR$/assets/videos/1326.mp4" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/assets/videos/1327.mp4" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/assets/videos/1330.mp4" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/assets/videos/1389_1390.mp4" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/assets/videos/1413.mp4" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/assets/videos/1433.mp4" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/assets/videos/1439.mp4" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/assets/videos/1440.mp4" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/assets/videos/1441.mp4" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/assets/videos/1446.mp4" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/assets/videos/1452.mp4" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/assets/videos/1453.mp4" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/assets/videos/1832.mp4" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/assets/videos/1888.mp4" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/assets/videos/1921.mp4" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/assets/videos/1936.mp4" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/assets/videos/Composite and Hybrid Ceramic (Jota All Ceramic Kit 1413).mp4" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/assets/videos/Feldspar Ceramic (Jota All Ceramic Kit 1413).mp4" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/assets/videos/Leucite Reinforced Glass-Ceramic (Jota All Ceramic Kit 1413).mp4" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/assets/videos/Lithium Disilicate (Jota All Ceramic Kit 1413).mp4" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/assets/videos/Zirconia Reinforced Lithium Silicate (Jota All Ceramic Kit 1413).mp4" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/assets/videos/Zirconium Oxide (Jota All Ceramic Kit 1413).mp4" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/css/ripple.css" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/js/index_page_2.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/page_second.html" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/assets/images/kits/1331.png" beforeDir="false" afterPath="$PROJECT_DIR$/assets/images/kits/1331.png" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/assets/images/kits/1367.png" beforeDir="false" afterPath="$PROJECT_DIR$/assets/images/kits/1367.png" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/assets/images/kits/1396.png" beforeDir="false" afterPath="$PROJECT_DIR$/assets/images/kits/1396.png" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/assets/images/kits/1433.png" beforeDir="false" afterPath="$PROJECT_DIR$/assets/images/kits/1433.png" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/assets/images/kits/1440.png" beforeDir="false" afterPath="$PROJECT_DIR$/assets/images/kits/1440.png" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/assets/images/kits/1921n.png" beforeDir="false" afterPath="$PROJECT_DIR$/assets/images/kits/1921n.png" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/assets/images/logo.png" beforeDir="false" afterPath="$PROJECT_DIR$/assets/images/logo.png" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/assets/videos/Jota_All_Crown_Cutter_Kit_1999.mp4" beforeDir="false" afterPath="$PROJECT_DIR$/assets/videos/1999.mp4" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/css/index.css" beforeDir="false" afterPath="$PROJECT_DIR$/css/index.css" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/index.html" beforeDir="false" afterPath="$PROJECT_DIR$/index.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/js/data-model.js" beforeDir="false" afterPath="$PROJECT_DIR$/js/data-model.js" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/js/grid-builder.js" beforeDir="false" afterPath="$PROJECT_DIR$/js/grid-builder.js" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/js/index.js" beforeDir="false" afterPath="$PROJECT_DIR$/js/index.js" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/js/page-components.js" beforeDir="false" afterPath="$PROJECT_DIR$/js/page-components.js" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -20,9 +72,9 @@
   <component name="FileTemplateManagerImpl">
     <option name="RECENT_TEMPLATES">
       <list>
-        <option value="HTML File" />
         <option value="CSS File" />
         <option value="JavaScript File" />
+        <option value="HTML File" />
       </list>
     </option>
   </component>
@@ -39,15 +91,15 @@
     <property name="RunOnceActivity.OpenProjectViewOnStart" value="true" />
     <property name="WebServerToolWindowFactoryState" value="false" />
     <property name="dart.analysis.tool.window.visible" value="false" />
-    <property name="last_opened_file_path" value="$PROJECT_DIR$/assets/icons" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$/assets/videos" />
     <property name="list.type.of.created.stylesheet" value="CSS" />
     <property name="nodejs_package_manager_path" value="npm" />
     <property name="vue.rearranger.settings.migration" value="true" />
   </component>
   <component name="RecentsManager">
     <key name="CopyFile.RECENT_KEYS">
-      <recent name="C:\Users\kalen\Desktop\Jota_presentation\assets\icons" />
       <recent name="C:\Users\kalen\Desktop\Jota_presentation\assets\videos" />
+      <recent name="C:\Users\kalen\Desktop\Jota_presentation\assets\icons" />
       <recent name="C:\Users\kalen\Desktop\Jota_presentation\assets\fonts" />
       <recent name="C:\Users\kalen\Desktop\Jota_presentation\css" />
       <recent name="C:\Users\kalen\Desktop\Jota_presentation\js" />
@@ -73,14 +125,42 @@
       <workItem from="1631472354653" duration="1767000" />
       <workItem from="1631474166771" duration="1772000" />
       <workItem from="1631475982347" duration="1745000" />
-      <workItem from="1631477802019" duration="518000" />
+      <workItem from="1631477802019" duration="1830000" />
+      <workItem from="1631479673138" duration="1340000" />
+      <workItem from="1631544784018" duration="11000" />
+      <workItem from="1631550722672" duration="1767000" />
+      <workItem from="1631552524049" duration="1623000" />
+      <workItem from="1631554351776" duration="1773000" />
+      <workItem from="1631556193357" duration="1583000" />
+      <workItem from="1631558004616" duration="1778000" />
+      <workItem from="1631560156854" duration="1773000" />
+      <workItem from="1631561965524" duration="1898000" />
+      <workItem from="1631563907478" duration="1778000" />
+      <workItem from="1631565725905" duration="1769000" />
+      <workItem from="1631567534585" duration="1160000" />
     </task>
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
     <option name="version" value="3" />
   </component>
+  <component name="Vcs.Log.Tabs.Properties">
+    <option name="TAB_STATES">
+      <map>
+        <entry key="MAIN">
+          <value>
+            <State />
+          </value>
+        </entry>
+      </map>
+    </option>
+    <option name="oldMeFiltersMigrated" value="true" />
+  </component>
   <component name="WindowStateProjectService">
+    <state x="628" y="321" key="#com.intellij.fileTypes.FileTypeChooser" timestamp="1631555889699">
+      <screen x="0" y="0" width="1920" height="1040" />
+    </state>
+    <state x="628" y="321" key="#com.intellij.fileTypes.FileTypeChooser/-1920.-5.1920.1040/0.0.1920.1040@0.0.1920.1040" timestamp="1631555889699" />
     <state x="686" y="211" key="FileChooserDialogImpl" timestamp="1631461308551">
       <screen x="0" y="0" width="1920" height="1040" />
     </state>

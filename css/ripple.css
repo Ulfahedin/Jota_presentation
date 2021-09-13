@@ -1,0 +1,58 @@
+.ink {
+    display: block;
+    position: absolute;
+    background: rgba(0,0,0,0.12);
+    border-radius: 100%;
+    transform: scale(0);
+    -webkit-transform: scale(0);
+    -moz-transform: scale(0);
+}
+
+.fade-out {
+    transform: opacity(0);
+    -webkit-transform: opacity(0);
+    -moz-transform: opacity(0);
+}
+
+.ripple {
+    position: relative;
+    overflow: hidden;
+}
+
+/* animation effect keyframes */
+
+.ink.animate {
+    animation: ripple 0.65s forwards;
+    -webkit-animation:ripple 0.65s forwards; /* For Chrome & Safari/Webkit based browser */
+    -moz-animation:ripple 0.65s forwards; /* For Mozilla Firefox */
+}
+
+.ink.animate.end {
+    transition: all 0.5s ease-in-out;
+    background-color: rgba(255, 0, 0, 0.0);
+    box-shadow: none;
+    border-radius: 0px;
+}
+@-webkit-keyframes ripple{
+    100% {
+        -webkit-transform: scale(2.5);
+        transform: scale(2.5);
+
+    }
+}
+@-moz-keyframes ripple{
+    100% {
+        -moz-transform: scale(2.5);
+        transform: scale(2.5);
+
+    }
+}
+
+@keyframes ripple {
+    /*scale the element to 250% to safely cover the entire link and fade it out*/
+    100% {
+        transform: scale(2.5);
+        -webkit-transform: scale(2.5);
+        -moz-transform: scale(2.5);
+    }
+}
