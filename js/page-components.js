@@ -11,9 +11,10 @@ function ModalClass(opts) {
             );
         }
         $('#' + idModal).append(
-            $('<div class="modal-dialog modal-xl modal-dialog-centered">').append(
+            $('<div class="modal-dialog modal-'+(opts.size ? opts.size : 'lg')+' modal-dialog-centered">').append(
                 $('<div class="modal-content">').append(
-                    $('<div class="modal-body">').append(
+                    opts.header ? opts.header : '',
+                    $('<div class="modal-body d-flex align-items-center justify-content-center" >').append(
                         opts.body
                     ),
                     $('<div class="modal-footer">').append(

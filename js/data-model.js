@@ -2,17 +2,20 @@ const kitsCollectionOne = [
     {
         title: 'KIT 1391',
         image: 'assets/images/kits/1391.png',
-        src: ''
+        src: '',
+        modalImg: 'assets/images/kits_info/1391.PNG'
     },
     {
         title: 'KIT 1367',
         image: 'assets/images/kits/1367.png',
-        src: ''
+        src: '',
+        modalImg: 'assets/images/kits_info/1367.PNG'
     },
     {
         title: 'KIT 1331',
         image: 'assets/images/kits/1331.png',
-        src: ''
+        src: '',
+        modalImg: 'assets/images/kits_info/1331.PNG'
     },
     {
         title: 'KIT 1330',
@@ -32,7 +35,8 @@ const kitsCollectionOne = [
     {
         title: 'KIT 1396',
         image: 'assets/images/kits/1396.png',
-        src: ''
+        src: '',
+        modalImg: 'assets/images/kits_info/1396.PNG'
     },
     {
         title: 'KIT 1921',
@@ -47,7 +51,8 @@ const kitsCollectionOne = [
     {
         title: 'KIT 1432',
         image: 'assets/images/kits/1432.png',
-        src: ''
+        src: '',
+        modalImg: 'assets/images/kits_info/1432.PNG'
     },
     {
         title: 'KIT 1389/1390',
@@ -98,7 +103,36 @@ const kitsCollectionSecond = [
     {
         title: 'KIT 1413',
         image: 'assets/images/kits/1413.png',
-        src: 'assets/videos/1413.mp4'
+        src: [
+            {
+                title: 'Main',
+                src: 'assets/videos/1413.mp4'
+            },
+            {
+                title: 'Composite and Hybrid Ceramic',
+                src: 'assets/videos/1413_1.mp4'
+            },
+            {
+                title: 'Feldspar Ceramic',
+                src: 'assets/videos/1413_2.mp4'
+            },
+            {
+                title: 'Leucite Reinforced Glass-Ceramic',
+                src: 'assets/videos/1413_3.mp4'
+            },
+            {
+                title: 'Lithium Disilicate',
+                src: 'assets/videos/1413_4.mp4'
+            },
+            {
+                title: 'Zirconia Reinforced Lithium Silicate',
+                src: 'assets/videos/1413_5.mp4'
+            },
+            {
+                title: 'Zirconium Oxide',
+                src: 'assets/videos/1413_6.mp4'
+            }
+        ]
     },
     {
         link: 'index.html',
